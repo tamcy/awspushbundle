@@ -7,7 +7,7 @@
         "php": ">=5.5",
         "ext-mbstring": "*",
         "aws/aws-sdk-php": "^3.0",
-        "symfony/symfony": "^2.7"
+        "symfony/symfony": "^2.7|~3.0"
     },
     "suggest": {
         "mcfedr/json-form": "Required if you want to use the included ApiController",
